@@ -3,6 +3,11 @@ body {
 }
 
 div {
-    text-align: left;
-    padding-left: 450px;
+    text-align: center;
+}
+
+
+}
+div:hover {
+    text-decoration: line-through;
 }
